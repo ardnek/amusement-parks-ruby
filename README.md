@@ -192,7 +192,3 @@ Your code should return the following hash:
   ]
 }
 ```
-
-## Challenge #4 - Run your code against the YML file
-
-Run your code against the data in `data/amusement_parks.yml`.
